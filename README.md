@@ -1,5 +1,5 @@
 # Fork of the Misskey
-The origin sources are in [MissKernel/Misskey-Web](https://github.com/MissKernel/Misskey-Web).  
+The origin sources are in [MissKernel](https://github.com/MissKernel).  
   
 ## Repositories
 - [sagume/Misskey-Web](https://github.com/sagume/Misskey-Web)
