@@ -2,8 +2,8 @@
 The origin sources are in [MissKernel](https://github.com/MissKernel).  
   
 ## Repositories
-- [sagume/Misskey-Web](https://github.com/sagume/Misskey-Web)
-- [sagume/Misskey-API](https://github.com/sagume/Misskey-API)
-- [sagume/Misskey-File](https://github.com/sagume/Misskey-File)
+- [misskey-delta/Misskey-Web](https://github.com/misskey-delta/Misskey-Web)
+- [misskey-delta/Misskey-API](https://github.com/misskey-delta/Misskey-API)
+- [misskey-delta/Misskey-File](https://github.com/misskey-delta/Misskey-File)
   
 Issues and Pull requests are always welcome.
