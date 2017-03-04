@@ -1,5 +1,6 @@
-# Fork of the Misskey
-The origin sources are in [MissKernel](https://github.com/MissKernel).  
+# misskey δ
+a fork of the misskey project.
+the origin sources are in [MissKernel](https://github.com/MissKernel).  
   
 ## Repositories
 - [misskey-delta/Misskey-Web](https://github.com/misskey-delta/Misskey-Web)
